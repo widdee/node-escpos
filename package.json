@@ -36,9 +36,7 @@
     "mutable-buffer": "^2.0.3"
   },
   "optionalDependencies": {
-    "usb": "*",
-    "serialport": "*",
-    "node-bluetooth": "*"
+    "usb": "*"
   },
   "devDependencies": {
     "mocha": "*"
